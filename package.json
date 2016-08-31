@@ -1,0 +1,19 @@
+{
+  "name": "dom-vortex",
+  "version": "0.0.1",
+  "description": "Gets all HTML and CSS from the DOM",
+  "main": "dom-vortex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchrdschfr/dom-vortex.git"
+  },
+  "author": "Richard Schaefer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchrdschfr/dom-vortex/issues"
+  },
+  "homepage": "https://github.com/rchrdschfr/dom-vortex#readme"
+}
